@@ -28,8 +28,8 @@
 - 🎮 [**Catado Gamer**](https://github.com/AryCord26/catadogamer-1.1)  
   Comunidade sobre jogos, cultura gamer e organização de conteúdo.
 
-- 🧪 [**Energia Nuclear em Cubos**](https://github.com/AryCord26)  
-  Um portal educativo que une Minecraft e energia nuclear de forma lúdica.
+- 🧭 [**Guia de Sobrevivência**](https://github.com/AryCord26)  
+  Site com dicas práticas de sobrevivência, interface rústica e uso de LocalStorage.
 
 - 🏡 [**Chácara**](https://github.com/AryCord26)  
   Site institucional com foco em descanso, contato com a natureza e design acolhedor.
