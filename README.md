@@ -15,9 +15,11 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ---
 
@@ -51,15 +53,17 @@ Sempre disposto a aprender e colaborar em projetos criativos que façam a difere
   Ingresso no curso de **Web Design na FIAP**.  
   Primeiros projetos com HTML, CSS e JavaScript.  
   Criação do projeto “Energia Nuclear em Cubos”.
+  Desenvolvimento do **Catado Gamer** com foco em UX.
 
 - 🧑‍💻 **2024**  
-  Desenvolvimento do **Catado Gamer** com foco em UX.  
-  Início do projeto institucional da **Chácara**, com estilo personalizado.  
+  Finalização do **Catado Gamer**.    
   Consolidação de conhecimento em Bootstrap, responsividade e LocalStorage.
+  Uso de Jira para gestão de projetos. 
 
 - 🛠️ **2025**  
   Construção de portfólio público no GitHub com perfil interativo.  
-  Aperfeiçoamento em UI/UX e foco em experiências acessíveis.  
+  Aperfeiçoamento em UI/UX e foco em experiências acessíveis.
+  Início do projeto institucional da **Chácara**, com estilo personalizado.  
   Em andamento: novos projetos pessoais e profissionais.
 
 - 🎯 **2026**  
