@@ -17,6 +17,14 @@
 
 ---
 
+## 📊 Estatísticas do GitHub
+
+![Ary's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AryCord26&show_icons=true&theme=default)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AryCord26&layout=compact)
+
+---
+
 ## 📌 Projetos em Destaque
 
 - 🎮 [**Catado Gamer**](https://github.com/AryCord26/catadogamer-1.1)  
@@ -42,6 +50,10 @@ Sempre disposto a aprender e colaborar em projetos criativos que façam a difere
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ary-cordeiro/)  
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/ary.cord/)  
 📧 Email: [ary_cordeiro@outlook.com](mailto:ary_cordeiro@outlook.com)
+
+---
+
+![Visitantes](https://komarev.com/ghpvc/?username=AryCord26&style=flat-square&color=blue)
 
 ---
 
