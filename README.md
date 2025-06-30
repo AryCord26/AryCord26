@@ -1,5 +1,9 @@
 # 👋 Olá! Eu sou o Ary Cordeiro
 
+![🚧 Em construção](https://img.shields.io/badge/🚧%20Perfil-Em%20Construção-orange?style=flat-square)
+![🟢 Status](https://img.shields.io/badge/Status-Ativo-brightgreen?style=flat-square)
+![Visitantes](https://komarev.com/ghpvc/?username=AryCord26&style=flat-square&color=blue)
+
 🎓 Estudante de **Web Design** na [FIAP](https://www.fiap.com.br/)  
 💻 Apaixonado por **desenvolvimento front-end**, UX/UI e projetos criativos  
 🚀 Explorando formas de transformar ideias em experiências digitais com propósito
@@ -14,14 +18,6 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-## 📊 Estatísticas do GitHub
-
-![Ary's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AryCord26&show_icons=true&theme=default)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AryCord26&layout=compact)
 
 ---
 
@@ -45,6 +41,33 @@ Sempre disposto a aprender e colaborar em projetos criativos que façam a difere
 
 ---
 
+## 🕒 Minha Linha do Tempo
+
+- 🚀 **2022**  
+  Início da minha jornada com programação e design web.  
+  Descoberta do interesse por front-end e experiências visuais.
+
+- 🎓 **2023**  
+  Ingresso no curso de **Web Design na FIAP**.  
+  Primeiros projetos com HTML, CSS e JavaScript.  
+  Criação do projeto “Energia Nuclear em Cubos”.
+
+- 🧑‍💻 **2024**  
+  Desenvolvimento do **Catado Gamer** com foco em UX.  
+  Início do projeto institucional da **Chácara**, com estilo personalizado.  
+  Consolidação de conhecimento em Bootstrap, responsividade e LocalStorage.
+
+- 🛠️ **2025**  
+  Construção de portfólio público no GitHub com perfil interativo.  
+  Aperfeiçoamento em UI/UX e foco em experiências acessíveis.  
+  Em andamento: novos projetos pessoais e profissionais.
+
+- 🎯 **2026**  
+  Conclusão da formação na FIAP.  
+  Pronto para oportunidades em front-end, design digital e tecnologia com propósito!
+
+---
+
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ary-cordeiro/)  
@@ -53,7 +76,11 @@ Sempre disposto a aprender e colaborar em projetos criativos que façam a difere
 
 ---
 
-![Visitantes](https://komarev.com/ghpvc/?username=AryCord26&style=flat-square&color=blue)
+## 📊 Estatísticas do GitHub
+
+![Ary's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AryCord26&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AryCord26&layout=compact&theme=tokyonight)
 
 ---
 
